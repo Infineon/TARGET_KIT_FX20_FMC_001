@@ -31,11 +31,10 @@ var NAVTREE =
       [ "Kit Contents:", "index.html#autotoc_md4", null ]
     ] ],
     [ "BSP Configuration", "index.html#autotoc_md5", [
-      [ "Clock Configuration", "index.html#autotoc_md6", null ],
-      [ "Power Configuration", "index.html#autotoc_md7", null ]
+      [ "Clock Configuration", "index.html#autotoc_md6", null ]
     ] ],
-    [ "API Reference Manual", "index.html#autotoc_md8", null ],
-    [ "More information", "index.html#autotoc_md9", null ],
+    [ "API Reference Manual", "index.html#autotoc_md7", null ],
+    [ "More information", "index.html#autotoc_md8", null ],
     [ "BSP Overview", "md_source_bsps_mt_bsp_user_guide.html", null ],
     [ "BSP Settings", "md_bsp_settings.html", null ],
     [ "BSP API Reference", "modules.html", "modules" ]

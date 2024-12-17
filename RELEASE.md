@@ -15,6 +15,8 @@ The KIT_FX20_FMC_001 library includes the following:
 * API documentation
 
 ### What Changed?
+#### v4.3.3
+* Updated power related configurations for KIT_FX20_FMC_001
 #### v4.3.2
 * Added new BSP for KIT_FX20_FMC_001 and KIT_FX2G3_104LGA
 #### v4.3.1

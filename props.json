@@ -1,19 +1,17 @@
 {
     "core": {
-        "version": "4.3.2.43856"
+        "version": "4.3.3.44443"
     },
     "opt": {
         "props": {
             "capabilities": [
                 "anycloud",
-                "arduino",
                 "bsp_gen4",
                 "can",
                 "cat1",
                 "cat1a",
                 "dma",
                 "flash_512k",
-                "fram",
                 "fx3g2",
                 "i2c",
                 "i2s",
@@ -28,7 +26,6 @@
                 "nor_flash",
                 "pdm",
                 "qspi",
-                "rgb_led",
                 "spi",
                 "sram_128k",
                 "std_crypto",

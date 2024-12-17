@@ -46,13 +46,6 @@ Defines:
 | CLK_HF3  | CLK_PATH0 | 24 MHz           |
 | CLK_HF4  | CLK_PATH1 | 150 MHz          |
 
-### Power Configuration
-
-* System Active Power Mode: LP
-* System Idle Power Mode: Deep Sleep
-* VDDA Voltage: 3300 mV
-* VDDD Voltage: 3300 mV
-
 See the [BSP Setttings][settings] for additional board specific configuration settings.
 
 ## API Reference Manual

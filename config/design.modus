@@ -235,24 +235,6 @@
                         <Param id="divider" value="1"/>
                     </Parameters>
                 </Personality>
-                <Personality template="power" version="1.3">
-                    <Block location="srss[0].power[0]" locked="true"/>
-                    <Parameters>
-                        <Param id="actPwrMode" value="LP"/>
-                        <Param id="backupSrc" value="VDDD"/>
-                        <Param id="coreRegulator" value="CY_SYSPM_LDO_MODE_NORMAL"/>
-                        <Param id="deepsleepLatency" value="0"/>
-                        <Param id="idlePwrMode" value="CY_CFG_PWR_MODE_DEEPSLEEP"/>
-                        <Param id="pmicEnable" value="false"/>
-                        <Param id="pwrMode" value="LDO_1_1"/>
-                        <Param id="vBackupMv" value="3300"/>
-                        <Param id="vddNsMv" value="3300"/>
-                        <Param id="vddaMv" value="3300"/>
-                        <Param id="vdddMv" value="3300"/>
-                        <Param id="vddio0Mv" value="3300"/>
-                        <Param id="vddio1Mv" value="3300"/>
-                    </Parameters>
-                </Personality>
             </BlockConfig>
             <Netlist>
                 <Net>
